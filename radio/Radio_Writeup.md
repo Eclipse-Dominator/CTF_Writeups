@@ -40,7 +40,7 @@ and each of 4 bits in the binary is then mapped to the constellation provided
 
 you should think of QAM diagram as a kind of graph with the origin at $(0,0)$​ and every data mapped to the symbol should be thought of as a point within that region on the graph.
 
-Now recall your A level Mathematics and every point $(x,y)$​ can be represented somewhat like as  $(Asin(\theta),Acos(\theta) )$ ​, where $\theta$​​ is the angle the the point make with the x-axis and $A$ is the length of the point to origin.
+Now recall your A level Mathematics and every point $(x,y)$​ can be represented somewhat like as  $(Acos(\theta),Asin(\theta) )$ ​, where $\theta$​​ is the angle the the point make with the x-axis and $A$ is the length of the point to origin.
 
 by converting the data to points represented by angle $\theta$ and $A$, we can then obtain a cosine wave function using: 
 $$
